@@ -12,7 +12,7 @@ function App() {
     <React.Fragment>
       <ParticlesBg
       color=" #EFB7B7"
-        num={200}
+        num={150}
         type="cobweb"
         bg={{ position: "absolute", zIndex: -1, top: 0, left: 0 }}
       />
