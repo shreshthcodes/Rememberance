@@ -1,0 +1,22 @@
+@font-face {
+    font-family: sega;
+    src: url(../../assets/SEGA.TTF);
+}
+.sega_font{
+    font-family: sega;
+    font-weight: 100;
+    font-size: 250%;
+    color: rgb(229, 109, 131);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title_box{
+    height: 75px;
+    width: 420px;
+    /* background-color:#EFB7B7; */
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
